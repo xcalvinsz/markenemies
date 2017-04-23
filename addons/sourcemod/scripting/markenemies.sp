@@ -19,7 +19,7 @@ public Plugin myinfo =
 	author = PLUGIN_AUTHOR,
 	description = "Mark your enemies for your teammates.",
 	version = PLUGIN_VERSION,
-	url = ""
+	url = "https://github.com/xcalvinsz/markenemies"
 };
 
 public void OnPluginStart()
